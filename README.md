@@ -3,6 +3,9 @@
 
 Aplicativo destinado à visualização automática de Streams da plataforma Streamaker!
 
+## Atualizações
+
+Alterado largura de Stream para 1280
 
 ## Instalação
 
