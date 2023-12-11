@@ -5,7 +5,7 @@ Aplicativo destinado à visualização automática de Streams da plataforma Stre
 
 ## Atualizações
 
-Alterado largura de Stream para 1280
+Alterado largura de Stream para 1024x768
 
 ## Instalação
 
