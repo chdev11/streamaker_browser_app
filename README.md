@@ -5,9 +5,8 @@ Aplicativo destinado à visualização automática de Streams da plataforma Stre
 
 ## Atualizações
 
-Alterado conexão com Socket
-Ajustado layout
-Adicionado monitoramento em tempo real de Coins
+Ajustado interface gráfica
+Adicionado widget de monitoramento de estatísticas
 
 ## Instalação
 
