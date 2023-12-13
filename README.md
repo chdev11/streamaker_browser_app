@@ -5,7 +5,9 @@ Aplicativo destinado à visualização automática de Streams da plataforma Stre
 
 ## Atualizações
 
-Alterado largura de Stream para 1024x768
+Alterado conexão com Socket
+Ajustado layout
+Adicionado monitoramento em tempo real de Coins
 
 ## Instalação
 
