@@ -5,8 +5,7 @@ Aplicativo destinado à visualização automática de Streams da plataforma Stre
 
 ## Atualizações
 
-Adicionado RefreshToken (em testes)
-Alterado interface
+Adicionado validação de usuário para Português PT
 
 ## Instalação
 
