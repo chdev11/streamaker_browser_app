@@ -5,8 +5,7 @@ Aplicativo destinado à visualização automática de Streams da plataforma Stre
 
 ## Atualizações
 
-Refatorado sistema de conexão com Socket
-Adicionado monitoramento para refresh em caso de falhas
+FIX para refresh token
 
 ## Instalação
 
