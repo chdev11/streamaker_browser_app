@@ -5,7 +5,9 @@ Aplicativo destinado à visualização automática de Streams da plataforma Stre
 
 ## Atualizações
 
-FIX para refresh token
+Alterado endpoints para novo Proxy
+Removido SnackBar
+Adicionado FlushBar
 
 ## Instalação
 
