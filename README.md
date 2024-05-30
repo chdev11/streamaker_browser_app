@@ -5,9 +5,12 @@ Aplicativo destinado à visualização automática de Streams da plataforma Stre
 
 ## Atualizações
 
-Alterado endpoints para novo Proxy
-Removido SnackBar
-Adicionado FlushBar
+- Aprimorado Interface do Usuário
+- Adicionado seleção de linguagem
+- Adicionado login com username
+- Adicionado input para login
+- Adicionado autenticação primária
+- Removido sound feature
 
 ## Instalação
 
